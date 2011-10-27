@@ -2,9 +2,9 @@
 #
 
 campfire:
-  domain: desertbeaver 
-  token: ENV['DESERT_CAMPFIRE'] 
-  room: The Overlook
+  domain: ENV['CAMPFIRE_ACCOUNT'] 
+  token:  ENV['CAMPFIRE_TOKEN'] 
+  room:   ENV['CAMPFIRE_ROOM']
 
 commands:
   - /app/commands.rb

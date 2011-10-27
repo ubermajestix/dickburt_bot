@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/ubermajestix/fbomb
-  revision: ea5b5d2dfa9f3db18ae3ca726edb1cec130f47f3
+  revision: 028606393536bd28054363efb5b00d45352c17a1
   specs:
     fbomb (1.0.0)
       fukung (~> 1.1.0)
