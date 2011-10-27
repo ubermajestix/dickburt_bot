@@ -1,0 +1,12 @@
+## file: /Users/tylermontgomery/.fbomb/config.yml
+#
+
+campfire:
+  domain: desertbeaver 
+  token: ENV['DESERT_CAMPFIRE'] 
+  room: The Overlook
+
+commands:
+  - /app/commands.rb
+  - system
+  - builtin
